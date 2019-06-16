@@ -1,0 +1,5 @@
+RMIT - COSC2196 - Assignment 1 - Student #3609369 - Daniel Gilogley
+
+Live website link: https://srulis.github.io/
+
+Github repository: https://github.com/Srulis/Srulis.github.io
