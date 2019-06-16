@@ -142,10 +142,10 @@ ol li
   color: #FFF;}
 
 #menubar
-{ width: 1000px;
+{ width: 900px;
   height: 46px;
-  margin-left: unset;
-  margin-right: unset;
+  /*margin-left: unset;
+  margin-right: unset;*/
 } 
 
 ul#menu
